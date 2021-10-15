@@ -6,6 +6,10 @@ Hi, I'm Emilse an Information Systems Engineer and software developer, passionat
 
 ## ⚡ Technologies
 
+
+<!--
+**earias08/earias08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [<img align="left" alt=".net" src="https://github.com/earias08/earias08/blob/main/icons/dotnet.png" />]
 [<img align="left" alt="C#" src="https://github.com/earias08/earias08/blob/main/icons/csharp.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -19,10 +23,6 @@ Hi, I'm Emilse an Information Systems Engineer and software developer, passionat
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
-<!--
-**earias08/earias08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
