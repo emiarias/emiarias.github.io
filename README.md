@@ -1,7 +1,11 @@
-### Hi, I'm Emilse <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hi, I'm Emilse <img src="https://github.com/earias08/earias08/blob/main/wave.gif" width="30px">
+
+<img src="https://github.com/earias08/earias08/blob/main/Systems%20engineer%20%26%20software%20developer.png" alt="banner by Emilse A. Arias, systems engineer and software developer">
 
 <!--
 **earias08/earias08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
