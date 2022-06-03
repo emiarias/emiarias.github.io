@@ -1,5 +1,3 @@
-### Hi, I'm Emilse <img src="https://github.com/earias08/earias08/blob/main/wave.gif" width="30px">
-
 <img src="https://github.com/earias08/earias08/blob/main/Systems%20engineer%20%26%20software%20developer.png" alt="banner by Emilse A. Arias, systems engineer and software developer">
 
 Hi, I'm Emilse an Information Systems Engineer and software developer, passionate about technology and continuous learning.
